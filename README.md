@@ -1,5 +1,34 @@
 # 🐍 Maze Morph
 
+![Maze Morph](images/Maze_Morph.jpeg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Maze Morph is a thrilling JavaFX-based snake game developed as an Object-Oriented Programming (OOP) project by Hamza Salahuddin and Hashir Uddin. The game puts a unique twist on the classic Snake game by adding maze barriers, random obstacles, special power-up foods, and an AI-controlled snake opponent.
 
 > Built entirely in Java using **JavaFX**, this project showcases real-time animations, object-oriented design patterns, and interactive GUI elements.
