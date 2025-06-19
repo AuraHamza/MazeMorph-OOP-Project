@@ -1,30 +1,6 @@
 # 🐍 Maze Morph
 
-![Maze Morph](images/Maze_Morph.jpeg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Maze Morph](Maze_Morph.jpeg)
 
 
 
